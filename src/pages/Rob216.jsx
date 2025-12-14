@@ -92,12 +92,12 @@ export default function Rob216() {
                                 <tr className="even:bg-gray-50">
                                     <td className="border px-6 py-3">4.</td>
                                     <td className="border px-6 py-3">कार्य प्रारम्भ करने की तिथि</td>
-                                    <td className="border px-6 py-3">30-07-2025</td>
+                                    <td className="border px-6 py-3">30.07.2025</td>
                                 </tr>
                                 <tr className="even:bg-gray-50">
                                     <td className="border px-6 py-3">5.</td>
                                     <td className="border px-6 py-3">कार्य समाप्ति की तिथि</td>
-                                    <td className="border px-6 py-3">29-07-2027</td>
+                                    <td className="border px-6 py-3">29.07.2027</td>
                                 </tr>
                             </tbody>
                         </table>

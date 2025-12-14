@@ -46,7 +46,7 @@ export default function Rob214() {
                         परियोजना का विवरण
                     </h2>
                     <p className="mt-4 text-gray-800 text-lg leading-relaxed">
-                        उक्त प्रस्तावित ROB की लम्बाई 950 मीटर, चौड़ाई 17.20 मीटर एवं ढलान 1:30 का है। ROB के दोनो तरफ 7.5 मीटर की सर्विस रोड़, 1.50 मीटर का फुटपाथ के साथ डैनेज एवं विद्युतीकरण का कार्य भी सम्मिलित है। ROB निर्माण के साथ-साथ पदयात्रियों एवं दुपहिया वाहनों हेतु सीमित ऊँचाई का सब-वे का निर्माण भी किया जायेगा।
+                        उक्त प्रस्तावित ROB की लम्बाई 950 मीटर, चौड़ाई 17.20 मीटर एवं ढलान 1:30 का है। ROB के दोनो तरफ 7.5 मीटर की सर्विस रोड़, 1.50 मीटर का फुटपाथ के साथ डैनेज एवं विधुतीकरण का कार्य भी सम्मिलित है। ROB निर्माण के साथ-साथ पदयात्रियों एवं दुपहिया वाहनों हेतु सीमित ऊँचाई का सब-वे का निर्माण भी किया जायेगा।
                     </p>
                 </section>
 
@@ -92,12 +92,12 @@ export default function Rob214() {
                                 <tr className="even:bg-gray-50">
                                     <td className="border px-6 py-3">4.</td>
                                     <td className="border px-6 py-3">कार्य प्रारम्भ करने की तिथि</td>
-                                    <td className="border px-6 py-3">10-07-2025</td>
+                                    <td className="border px-6 py-3">10.07.2025</td>
                                 </tr>
                                 <tr className="even:bg-gray-50">
                                     <td className="border px-6 py-3">5.</td>
                                     <td className="border px-6 py-3">कार्य समाप्ति की तिथि</td>
-                                    <td className="border px-6 py-3">09-07-2027</td>
+                                    <td className="border px-6 py-3">09.07.2027</td>
                                 </tr>
                             </tbody>
                         </table>

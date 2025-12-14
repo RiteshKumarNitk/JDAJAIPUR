@@ -9,7 +9,7 @@ function App() {
         <BrowserRouter>
 
             <Routes>
-                {/* <Route path="/" element={<Navigate to="/robconstruction" />} /> */}
+                <Route path="/" element={<Navigate to="/robconstruction" />} />
                 <Route path="/robconstruction" element={<Rob214 />} />
                 <Route path="/saligrampura" element={<Rob215 />} />
                 <Route path="/riddhisiddhi" element={<Rob216 />} />
